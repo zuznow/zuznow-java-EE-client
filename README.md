@@ -6,7 +6,7 @@ In order to activate Zuznow Client you have to:
 1. Installed filter in your Java EE application
 
 2. Configure the client by editing your filter configuration
-3. 
+
 
 Configuring Zuznow Client:
 
