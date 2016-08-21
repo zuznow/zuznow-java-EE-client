@@ -8,6 +8,7 @@ In order to activate Zuznow Client you have to:
 2. Configure the client by editing your filter configuration
 
 
+
 Configuring Zuznow Client:
 
 domainID - The ID of the required app (from Zuznow dashboard)
